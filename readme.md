@@ -2,4 +2,8 @@
 ####ITs very fun to learn Git self.
 
 ---
-Email me at [kp.krn25@gmail.com]
+
+Email me at www.kiranpoudel.com.np
+
+
+This is my second time editing.
